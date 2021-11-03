@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit 评估版) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="254mm" height="254mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 25400 25400"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID1" horiz-adv-x="645" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Yu Gothic UI">
+		<font-face-src>
+			<font-face-name name="Yu Gothic UI Regular"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="F" horiz-adv-x="488" d="M447.333 626l-273.5 0 0 -242 253 0 0 -74.0006 -253 0 0 -310 -82.0001 0 0 700 355.5 0 0 -73.9997z"/>
+  </font>
+  <font id="FontID0" horiz-adv-x="671" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Yu Gothic UI">
+		<font-face-src>
+			<font-face-name name="Yu Gothic UI Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="P" horiz-adv-x="584" d="M202.167 254l0 -254 -115.667 0 0 700 212.333 0c80.3334,0 142.667,-18.6661 187,-56.1661 44.3339,-37.3339 66.5004,-90.0004 66.5004,-158.001 0,-68.0001 -23.1669,-123.666 -69.4998,-167 -46.1667,-43.1665 -108.667,-64.8337 -187.5,-64.8337l-93.1668 0zm0 350l0 -254.999 75.1671 0c49.8333,0 87.6665,11.4999 113.833,34.4998 26.0001,23.1669 39.0006,55.4998 39.0006,97.3336 0,82.1662 -47.8334,123.166 -143.5,123.166l-84.5001 0z"/>
+   <glyph unicode="Q" horiz-adv-x="755" d="M375 -12.0001c-50.4997,0 -96.1662,8.6667 -137.166,25.8331 -41.0005,17.3334 -76.0004,41.5006 -105.001,72.667 -28.9995,31.0002 -51.4992,68.3333 -67.3329,111.5 -15.9999,43.3335 -24.0002,91.3331 -24.0002,143.667 0,56 8.00035,106.834 24.1672,152.5 16.166,45.5004 38.9997,84.5001 68.8326,116.667 29.8337,32.3329 66.0002,57.1665 108.667,74.8331 42.6663,17.5004 90.3328,26.3333 142.999,26.3333 48.8338,0 93.5,-8.6667 133.833,-25.8331 40.3333,-17.3334 74.8339,-41.4998 103.5,-72.667 28.6672,-30.9994 50.8337,-68.3333 66.6666,-111.5 15.8337,-43.3335 23.6671,-91.167 23.6671,-143.166 0,-69.0004 -11.4999,-129.5 -34.6668,-181.501 -22.9999,-51.9994 -55.6668,-93.6662 -97.6668,-125.333l203.167 -146 -176.834 0 -125 96.6673c-16.5001,-4.50077 -33.8335,-8.16736 -51.667,-10.8336 -17.8336,-2.50006 -36.6667,-3.83359 -56.167,-3.83359zm5.33413 622c-31.8336,0 -61.0001,-6.33365 -87.6674,-18.8331 -26.4995,-12.5003 -49.3332,-30.1669 -68.4994,-53.1667 -19.1671,-22.9999 -34.1666,-50.3335 -44.667,-82.3333 -10.6666,-31.8336 -15.9999,-67.3337 -15.9999,-106.333 0,-38.8336 5.16629,-74.1667 15.4997,-106 10.1672,-31.8336 24.6666,-59.1664 43.1673,-81.8331 18.4999,-22.6667 40.8326,-40.1671 66.8327,-52.6666 26.1671,-12.5003 54.8334,-18.8339 86.5,-18.8339 33.5003,0 63.6672,5.83347 90.3336,17.5004 26.6665,11.8331 49.3332,28.6663 68.1663,50.6667 18.6669,22.0003 33.0001,48.833 43.1673,80.8336 9.9994,31.8327 15.1665,68.1663 15.1665,108.833 0,41.6668 -5.00012,78.6667 -14.6672,111.334 -9.83323,32.4999 -23.8332,59.9997 -42,82.1671 -18.3329,22.3327 -40.4994,39.3329 -66.6666,51.166 -26.1663,11.6669 -55.6668,17.5004 -88.6661,17.5004z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Yu Gothic UI";font-variant:normal;font-weight:normal;src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Yu Gothic UI";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:white}
+    .fil0 {fill:url(#id0)}
+    .fnt1 {font-weight:normal;font-size:11975.72px;font-family:'Yu Gothic UI'}
+    .fnt0 {font-weight:bold;font-size:11975.72px;font-family:'Yu Gothic UI'}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.46486 0.00656832 -0.00638304 1.42125 -5169 -10947)" cx="11473.57" cy="25807.09" r="3238.27" fx="11473.57" fy="25807.09">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C8E4D4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#37CE4F"/>
+  </radialGradient>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="21146.93,17288.97 22034.07,17288.97 24824.73,17288.97 24824.73,16430.05 24824.73,13405.28 24824.73,12165.22 20011.74,12165.22 20011.74,6999.15 20011.74,6927.22 19232.88,6225.24 18041.13,5151.33 12687.09,5151.33 12687.09,461.72 7633.4,461.72 7633.4,5151.33 549.9,5151.33 549.9,12487.22 5477.44,12487.22 5477.44,17540.92 549.9,17540.92 549.9,22642.51 1789.14,23668.97 2638.39,24372.46 7633.4,24372.46 7633.4,19696.64 12687.09,19696.64 12687.09,24372.46 12948,24372.46 13774.54,24372.46 17555.52,24372.46 18141.43,24372.46 18526.55,24372.46 19770.85,24372.46 20011.74,24372.46 20011.74,17288.97 "/>
+  <g transform="matrix(0.48144 0 0 1 953.595 3784.15)">
+   <text x="12700" y="12700"  class="fil1 fnt0">P</text>
+   <text x="26862.49" y="12700"  class="fil1 fnt0">Q</text>
+   <text x="20358.08" y="12700"  class="fil1 fnt1">F</text>
+  </g>
+ </g>
+</svg>
